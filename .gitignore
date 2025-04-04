@@ -1,0 +1,4 @@
+# Ignorar carpetas específicas
+data/
+env_2025/
+*.ipynb
